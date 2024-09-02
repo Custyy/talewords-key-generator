@@ -1,0 +1,23 @@
+{
+  "name": "Taleworlds Warband Key Generator",
+  "version": "0.0.1",
+  "description": "Taleworlds Warband Key Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "Taleworlds",
+    "Key",
+    "Generator"
+  ],
+  "author": "Custy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "request": "^2.88.2"
+  }
+}
